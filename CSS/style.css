@@ -1,0 +1,28 @@
+p {
+    width: 80% !important;
+    text-align: justify;
+}
+
+hr {
+    width: 20%;
+    text-align: left;
+    margin-left: 0;
+    border: 1px red;
+}
+
+.color-blue {
+    color: blue !important;
+}
+
+#articles {
+    background-color: aquamarine; 
+}
+
+#contacts {
+    margin-bottom: 32px;
+    background-color: blue; 
+}
+
+#contacts p {
+    text-align: 
+}
